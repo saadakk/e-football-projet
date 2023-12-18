@@ -2,7 +2,7 @@
   "name": "starfootball",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/saadakk/e-football.git",
+  "homepage":"https://saadakk.github.io/e-football/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
