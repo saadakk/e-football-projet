@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-football-projet/static/css/main.48a383d4.css",
+    "main.js": "/e-football-projet/static/js/main.103c5817.js",
+    "static/js/787.f0789627.chunk.js": "/e-football-projet/static/js/787.f0789627.chunk.js",
+    "index.html": "/e-football-projet/index.html",
+    "main.48a383d4.css.map": "/e-football-projet/static/css/main.48a383d4.css.map",
+    "main.103c5817.js.map": "/e-football-projet/static/js/main.103c5817.js.map",
+    "787.f0789627.chunk.js.map": "/e-football-projet/static/js/787.f0789627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a383d4.css",
+    "static/js/main.103c5817.js"
+  ]
+}
