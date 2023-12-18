@@ -3,7 +3,7 @@ const packs = [
         name:"FC Barcelona",
         price:1500,
         id:"barcelona",
-        img:"/images/barca.png"
+        img:"images/barca.png"
     },
     {
         name:"Real Madrid",
