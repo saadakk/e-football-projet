@@ -1,0 +1,876 @@
+Barcaaaaaaaaa
+Madrid
+City
+Liverpool
+Bayern
+
+12
+1 guardian
+1 icon
+
+rating
+kolxi o ma3na dialo
+
+50-65 brnz
+66-75 silver
+76-85 gold
+86-90 thunderstruck
+PAC: Pace - Refers to a player's speed and acceleration.
+SHO: Shooting - Represents a player's ability to shoot the ball accurately and with power.
+PAS: Passing - Indicates a player's skill in passing the ball accurately to teammates.
+DRI: Dribbling - Reflects a player's ability to control the ball while moving and navigate through defenders.
+DEF: Defending - Represents a player's defensive abilities, including tackling and intercepting.
+PHY: Physicality - Describes a player's physical strength and ability to hold off opponents.
+The second set:
+
+DIV: Diving - Typically used in the context of a goalkeeper's diving ability.
+HAN: Handling - Refers to a goalkeeper's skill in handling the ball, especially in catching or parrying shots.
+KIC: Kicking - Indicates a goalkeeper's ability to kick the ball, especially for goal kicks or long passes.
+REF: Reflexes - Represents a goalkeeper's quick reactions and reflexes to make saves.
+SPE: Speed - This could be the speed attribute for goalkeepers or outfield players, indicating overall speed.
+POS: Positioning - Reflects a goalkeeper's ability to position themselves well to make saves.
+[
+{
+	name: Robert Lewandowski
+	team: barcelona
+	image:"image/1.png"
+	rating:91
+	score:{
+		pac:77
+		sho:92
+		pas:82
+		dri:88
+		def:45
+		phy:85		
+}
+},
+{
+	name:Ilkay Gündogan
+	team:barcelona
+	image:"image/2.png"
+	rating:86
+	score:{
+		pac:62
+		sho:81
+		pas:84
+		dri:86
+		def:72
+		phy:73		
+}
+{
+	name:Oriol Romeu
+	team:barcelona
+	image:"image/3.png"
+	rating:80
+	score:{
+		pac:43
+		sho:54
+		pas:69
+		dri:67
+		def:79
+		phy:82		
+}
+{
+	name:Andreas Christensen
+	team:barcelona
+	image:"image/4.png"
+	rating:83
+	score:{
+		pac:67
+		sho:32
+		pas:68
+		dri:71
+		def:85
+		phy:76		
+}
+{
+	name:Sergi Roberto
+	team:barcelona
+	image:"image/5.png"
+	rating:80
+	score:{
+		pac:74
+		sho:63
+		pas:79
+		dri:77
+		def:75
+		phy:73	
+}
+{
+	name:Joao Felix
+	team:barcelona
+	image:"image/6.png"
+	rating:81
+	score:{
+		pac:81
+		sho:79
+		pas:78
+		dri:85
+		def:40
+		phy:67	
+}
+{
+	name:Pau Víctor 
+	team:barcelona
+	image:"image/7.png"
+	rating:62
+	score:{
+		pac:76
+		sho:58
+		pas:60
+		dri:65
+		def:52
+		phy:67		
+}
+{
+	name:Marc Casadó
+	team:barcelona
+	image:"image/8.png"
+	rating:64
+	score:{
+		pac:60
+		sho:54
+		pas:61
+		dri:66
+		def:61
+		phy:53		
+}
+{
+	name:Ronald Araujo
+	team:barcelona
+	image:"image/9.png"
+	rating:86
+	score:{
+		pac:79
+		sho:51
+		pas:65
+		dri:62
+		def:86
+		phy:84		
+}
+
+{
+	name:Inigo Martinez
+	team:barcelona
+	image:"image/10.png"
+	rating:82
+	score:{
+		pac:71
+		sho:56
+		pas:67
+		dri:61
+		def:82
+		phy:80		
+}
+{
+	name: Ronaldinho
+	team: barcelona
+	image:"image/11.png"
+	rating:93
+	score:{
+		pac:91
+		sho:89
+		pas:90
+		dri:95
+		def:38
+		phy:80		
+}
+{
+	name:Marc-André Ter Stege
+	team:barcelona
+	image:"image/12.png"
+	rating:89
+	score:{
+		div:86
+		han:85
+		kic:89
+		ref:91
+		spe:47
+		pos:86		
+}
+{
+	name:Vinicius Junior
+	team:Real Madrid
+	image:"image/13.png"
+	rating:89
+	score:{
+		pac:95
+		sho:82
+		pas:78
+		dri:90
+		def:29
+		phy:68		
+}
+{
+	name:Ferland Mendy
+	team:Real Madrid
+	image:"image/14.png"
+	rating:85
+	score:{
+		pac:95
+		sho:68
+		pas:80
+		dri:80
+		def:80
+		phy:89		
+}
+{
+	name:Luka Modric
+	team:Real Madrid
+	image:"image/15.png"
+	rating:91
+	score:{
+		pac:80
+		sho:81
+		pas:92
+		dri:91
+		def:80
+		phy:71		
+}
+{
+	name:Brahim Diaz
+	team:Real Madrid
+	image:"image/16.png"
+	rating:80
+	score:{
+		pac:81
+		sho:71
+		pas:77
+		dri:83
+		def:30
+		phy:49	
+}
+{
+	name:Arda Guler
+	team:Real Madrid
+	image:"image/17.png"
+	rating:77
+	score:{
+		pac:72
+		sho:70
+		pas:80
+		dri:81
+		def:52
+		phy:50		
+}
+{
+	name:Alvaro Carrillo
+	team:Real Madrid
+	image:"image/18.png"
+	rating:62
+	score:{
+		pac:68
+		sho:60
+		pas:59
+		dri:59
+		def:22
+		phy:56
+{
+	name:Fran García
+	team:Real Madrid
+	image:"image/19.png"
+	rating:78
+	score:{
+		pac:89
+		sho:49
+		pas:69
+		dri:77
+		def:71
+		phy:68	
+}
+{
+	name:Rafael Obrado
+	team:Real Madrid
+	image:"image/20.png"
+	rating:65
+	score:{
+		pac:79
+		sho:31
+		pas:48
+		dri:57
+		def:61
+		phy:63		
+}
+{
+	name:Antonio Rüdiger
+	team:Real Madrid
+	image:"image/21.png"
+	rating:85
+	score:{
+		pac:82
+		sho:54
+		pas:71
+		dri:66
+		def:84
+		phy:86
+{
+	name:Jude Bellingham
+	team:Real Madrid
+	image:"image/22.png"
+	rating:88
+	score:{
+		pac:79
+		sho:80
+		pas:81
+		dri:87
+		def:80
+		phy:84	
+}
+{
+	name:Ronaldo Luís
+	team:Real Madrid
+	image:"image/23.png"
+	rating:94
+	score:{
+		pac:94
+		sho:94
+		pas:79
+		dri:94
+		def:43
+		phy:75		
+}
+{
+	name:Thibaut Courtois
+	team:Real Madrid
+	image:"image/24.png"
+	rating:90
+	score:{
+		div:85
+		han:89
+		kic:76
+		ref:93
+		spe:46
+		pos:90		
+}
+{
+	name:Kyle Walker
+	team:Man city
+	image:"image/25.png"
+	rating:84
+	score:{
+		pac:90
+		sho:63
+		pas:77
+		dri:78
+		def:79
+		phy:81		
+}
+{
+	name:Kevin De Bruyne
+	team:Man city
+	image:"image/26.png"
+	rating:87
+	score:{
+		pac:80
+		sho:84
+		pas:91
+		dri:83
+		def:70
+		phy:74		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/27.png"
+	rating:90
+	score:{
+		pac:65
+		sho:40
+		pas:68
+		dri:70
+		def:90
+		phy:88		
+}
+{
+	name:Jack Grealish
+	team:Man city
+	image:"image/28.png"
+	rating:88
+	score:{
+		pac:85
+		sho:80
+		pas:87
+		dri:91
+		def:56
+		phy:76		
+}
+{
+	name:Erling Haaland
+	team:Man city
+	image:"image/29.png"
+	rating:92
+	score:{
+		pac:91
+		sho:94
+		pas:67
+		dri:82
+		def:46
+		phy:90		
+}
+{
+	name:Rico Lewis
+	team:Man city
+	image:"image/30.png"
+	rating:73
+	score:{
+		pac:74
+		sho:43
+		pas:67
+		dri:72
+		def:70
+		phy:59		
+}
+{
+	name:Oscar Bobb
+	team:Man city
+	image:"image/31.png"
+	rating:64
+	score:{
+		pac:80
+		sho:59
+		pas:59
+		dri:68
+		def:31
+		phy:40		
+}
+{
+	name:Bernardo Silva
+	team:Man city
+	image:"image/32.png"
+	rating:88
+	score:{
+		pac:69
+		sho:78
+		pas:86
+		dri:92
+		def:70
+		phy:69		
+}
+{
+	name:Kalvin Phillips
+	team:Man city
+	image:"image/33.png"
+	rating:86
+	score:{
+		pac:77
+		sho:72
+		pas:84
+		dri:83
+		def:86
+		phy:82		
+}
+{
+	name:Benjamin Knight
+	team:Man city
+	image:"image/34.png"
+	rating:60
+	score:{
+		pac:67
+		sho:57
+		pas:52
+		dri:68
+		def:28
+		phy:38		
+}
+{
+	name:Yaya Touré
+	team:Man city
+	image:"image/35.png"
+	rating:88
+	score:{
+		pac:80
+		sho:84
+		pas:87
+		dri:85
+		def:82
+		phy:90		
+}
+{
+	name:Ederson Santana
+	team:Man city
+	image:"image/36.png"
+	rating:88
+	score:{
+		div:86
+		han:82
+		kic:91
+		ref:86
+		spe:64
+		pos:86		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/37.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/38.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/39.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/40.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+{
+	name:Ruben Dias
+	team:Man city
+	image:"image/41.png"
+	rating:
+	score:{
+		pac:
+		sho:
+		pas:
+		dri:
+		def:
+		phy:		
+
+}
+
+}
+]
