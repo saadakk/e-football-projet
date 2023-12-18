@@ -161,7 +161,7 @@ export default function Packpage() {
         return (
            <div>
             <div id='packshop'  style={{display : "inline"}}>
-              <h1>{pack.name}</h1>
+              <h1>{pack.name}deeefsrsefsefes</h1>
               <h3>Featured Cards</h3>
               <button class="button-64 text-center mx-auto m-4" role="button" id='buybutton' onClick={clickcheck}><span class="text">Open pack {pack.price}<img height='32' src='/images/currency/gembundlesm.png'/></span></button>
             <Row id='shop'>
