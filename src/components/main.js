@@ -17,7 +17,7 @@ export default function Main() {
     }
   }
     return(
-      <Row>
+      <Row>deeefsrsefsefesdeeefsrsefsefesdeeefsrsefsefesdeeefsrsefsefesdeeefsrsefsefes
       {  packs.map((p)=>{
         return <Col key={p.id}><div onClick={(e)=>goto(e)} to={`/Pack/${p.id}`}><img id={p.id}  src={p.img} width="250px"/></div></Col>
       }
